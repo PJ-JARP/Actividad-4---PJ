@@ -1,0 +1,4 @@
+* Ivan Teysera,8110309004,invan2004@yahoo.com,Av. Lazaro Cardenas.,Tue Aug 19 00:00:00 CDT 2003
+* * Joel Santiago Mazariegos,8110309000,joel.09@gmail.com,av. Eloy Cavazos.,null
+* Diana Caro Mazariegos ,8110309002,diana.caro@gmail.com,av. Corazon. Mty,Sat Jul 03 00:00:00 CDT 1999
+* Alberto Vinter Mazariegos,8110309003,vinter.vinter@hotmail.com,av. Platon Mty. ,Fri Jun 01 00:00:00 CDT 2001
